@@ -13,8 +13,8 @@ class Author
   end 
   
   def add_post(post)
-    @name 
-    @@
+    @post 
+    @@posts 
   end 
   
   
